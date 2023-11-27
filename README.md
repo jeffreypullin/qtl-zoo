@@ -7,6 +7,11 @@ This document aims to provide a reference of the many types of QTL (Quantative T
 * csQTL: cell state QTL [^1]
 * csaQTL: cell state abundance QTL [^2]
 * int-eQTL: disease-state interaction eQTL [^3]
+* mQTL: methylation QTL
+* mQTL/metQTL: metabolite QTL
+* caQTL: chromatin accesibility QTL
+* haQTL: histone acetylation QTL
+* miQTL: microRNA QTL
 
 ## References
 
