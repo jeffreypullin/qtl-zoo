@@ -14,6 +14,6 @@ This document aims to provide a reference of the many types of QTL (Quantative T
 
 [^2]: Rumker, L. et al. Identifying genetic variants that influence the abundance of cell states in single-cell data. 2023.11.13.566919 Preprint at https://doi.org/10.1101/2023.11.13.566919 (2023).
 
-[^3: Natri, H. M. et al. Cell type-specific and disease-associated eQTL in the human lung. 2023.03.17.533161 Preprint at https://doi.org/10.1101/2023.03.17.533161 (2023).
+[^3]: Natri, H. M. et al. Cell type-specific and disease-associated eQTL in the human lung. 2023.03.17.533161 Preprint at https://doi.org/10.1101/2023.03.17.533161 (2023).
 
 
