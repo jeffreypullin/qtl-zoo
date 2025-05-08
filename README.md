@@ -3,7 +3,7 @@
 This document aims to provide a reference of the many types of QTL (Quantative Trait Loci) that are used in the literature:
 
 * eQTL: expression QTL
-* caQTL: chromatin abundance QTL
+* caQTL: chromatin accesibility QTL
 * pQTL: protein QTL 
 * csQTL: cell state QTL [^1]
 * csaQTL: cell state abundance QTL [^2]
