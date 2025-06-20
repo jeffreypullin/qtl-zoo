@@ -15,6 +15,7 @@ This document aims to provide a reference of the many types of QTL (Quantative T
 * fpQTL: footprint QTL [^4]
 * n-eQTL: nuclear eQTL [^5]
 * c-eQTL: cellular eQTL [^5]
+* pcQTL: cis-principal component eQTL [^6]
 
 ## References
 
@@ -27,4 +28,6 @@ This document aims to provide a reference of the many types of QTL (Quantative T
 [^4]: Dude, F. M. et al. Characterization of non-coding variants associated with transcription factor binding through ATAC-seq-defined footprint QTLs in liver. Preprint at https://doi.org/10.1101/2024.09.24.614730 (2024).
 
 [^5]: Sakaue, S. et al. Early and late RNA eQTL are driven by different genetic mechanisms. Preprint at https://doi.org/10.1101/2025.02.24.639351 (2025)
+
+[^6]: Lawrence, K. et al. Focus on single gene effects limits discovery and interpretation of complex trait-associated variants. Preprint at https://doi.org/10.1101/2025.06.06.658175 (2025)
 
